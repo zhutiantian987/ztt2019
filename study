@@ -1,0 +1,6 @@
+touch README.md 
+git init 
+git add README.md 
+git commit -m“study” 
+git remote add origin https://github.com/zhutiantian987/ztt987.git
+git push -u origin master
